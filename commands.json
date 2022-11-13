@@ -1,0 +1,17 @@
+{
+    "date and hour": {
+        "day": "Maria Que dia é hoje",
+        "hours": "Maria que horas são"
+    },
+    "weather": {
+        "temperature": "Maria qual é a temperatura em"
+    },
+    "search": {
+        "google": "Maria busque por",
+        "youtube": "Maria Pesquise por",
+        "wikipedia": "Maria procure por"
+    },
+    "nasa": {
+        "space image": "Maria imagem do dia"
+    }
+}
